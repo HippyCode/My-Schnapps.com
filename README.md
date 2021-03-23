@@ -1,2 +1,1 @@
-# My-Schnapps.com
-# Drink with caution
+# My-Schnapps.com , Drink with caution
